@@ -1,5 +1,5 @@
 # AIRBNB-Clone
-![AirBnB](https://github.com/KuriaDan/AirBnB_clone/blob/master/img/airbnb.png)
+![AirBnB](./img/airbnb.png)
 ## Description
 This project is part of ALX Software Engineering program
 It's the first step towards building a full web application, an AirBnB clone.
